@@ -1,0 +1,34 @@
+*
+{
+  font-weight: bold;
+  font-family: 'sans-serif', serif;
+}
+
+/*.header{
+  padding: 10px 16px;
+  background: #555;
+  color: #f1f1f1;
+  position: fixed;
+  top: 0;
+  width: 100%
+}*/
+
+.canvas{
+  border: 4px solid black;
+  border-radius: 10px;
+  margin: 0px;
+  background-color: white;
+
+}
+
+body{
+  margin: 0px;
+}
+
+a{
+  border: 4px solid black;
+  border-radius: 10px;
+  padding: 4px;
+  margin: 10px;
+  color: DodgerBlue;
+}
